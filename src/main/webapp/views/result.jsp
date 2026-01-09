@@ -5,8 +5,9 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <h2>Hariharan Calculator<h2>
+        <h2>Welcome To Hariharan</h2>
 
-        <h2>Result is : ${result} </h2>
+        <p>${alien} </p>
+
     </body>
 </html>
